@@ -1,0 +1,20 @@
+trouble shooting
+
+**[원인]**
+
+- visual studio는 32bit, 컴퓨터에 설치된 office 프로그램은 64bit visual studio가 인식을 하지 못함
+
+**[해결 방법]**
+
+- visual studio가 인식할 수 있는 32비트로  [office 프로그램을 설치](https://www.microsoft.com/en-us/download/details.aspx?id=13255)
+
+‼**중요‼**
+
+- office 32bit 프로그램은 꼭 2010 버전으로 깔아야 이미 설치 된 64bit의 office 프로그램과 같이 설치 가능합니다.
+- 설치 프로그램의 버전은 로컬 디스크의 program files (x86) > Mivrosoft office 버전을 확인해 주세요.
+
+**[비고]**
+
+- 설치 도중 You cannot install the 32-bit version~ 의 오류 발생
+    - 컴퓨터에 64bit의 office 프로그램이 이미 깔렸기 때문에 발생한 문제
+    - 설치 프로그램을 cmd에서 /passive 입력해 설치 진행
