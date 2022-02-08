@@ -2,7 +2,7 @@
 
 
 <p align="center">
-![image](https://user-images.githubusercontent.com/80144039/152936867-89140277-efb3-4281-b523-847408c8accc.png)
+    <img src = "https://user-images.githubusercontent.com/80144039/152936867-89140277-efb3-4281-b523-847408c8accc.png?raw=true"/>
 </p>
 
 
@@ -36,7 +36,7 @@
 </aside>
 
 <p align="center">
-![image](https://user-images.githubusercontent.com/80144039/152936903-58c49cc8-d1cf-486e-a0f1-5292a22828b2.png)
+  <img src = "https://user-images.githubusercontent.com/80144039/152936903-58c49cc8-d1cf-486e-a0f1-5292a22828b2.png"/>
 </p>
 
 
